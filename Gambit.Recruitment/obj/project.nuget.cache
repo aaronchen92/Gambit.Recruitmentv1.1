@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cd3bEaXikZSpfgZApX+DQFhojJSZ8XJ5uWxCNQ2/BXg/L+ffmLOWQoV0HQI6Dkl8pkTLfTsbbgdziZBuKO5VAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mcm\\Downloads\\Gambit Recruitment Test\\Gambit.Recruitmentv1.1\\Gambit.Recruitment\\Gambit.Recruitment.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mcm\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

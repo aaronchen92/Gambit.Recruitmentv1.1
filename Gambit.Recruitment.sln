@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gambit.Recruitment.Business", "Gambit.Recruitment\Gambit.Recruitment.Business.csproj", "{36EA3DD8-07E1-4307-A896-739485BF857C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gambit.Recruitment.Business.Tests", "Gambit.Recruitment.Business.Tests\Gambit.Recruitment.Business.Tests.csproj", "{4DB23AAD-BC88-44E4-AD33-1D4ED691E28D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gambit.Recruitment.WebApi", "Gambit.Recruitment.WebApi\Gambit.Recruitment.WebApi.csproj", "{0F1022F2-AE02-4D76-A7D8-4CF27ECE0E35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36EA3DD8-07E1-4307-A896-739485BF857C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36EA3DD8-07E1-4307-A896-739485BF857C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36EA3DD8-07E1-4307-A896-739485BF857C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36EA3DD8-07E1-4307-A896-739485BF857C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DB23AAD-BC88-44E4-AD33-1D4ED691E28D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DB23AAD-BC88-44E4-AD33-1D4ED691E28D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DB23AAD-BC88-44E4-AD33-1D4ED691E28D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DB23AAD-BC88-44E4-AD33-1D4ED691E28D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F1022F2-AE02-4D76-A7D8-4CF27ECE0E35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F1022F2-AE02-4D76-A7D8-4CF27ECE0E35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F1022F2-AE02-4D76-A7D8-4CF27ECE0E35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F1022F2-AE02-4D76-A7D8-4CF27ECE0E35}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73E7F7AC-2005-4C60-9918-F8EB6FF659C6}
+	EndGlobalSection
+EndGlobal
