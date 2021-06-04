@@ -6563,11 +6563,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mcm\\Downloads\\Gambit Recruitment Test\\Gambit.Recruitmentv1.1\\Gambit.Recruitment.Business.Tests\\Gambit.Recruitment.Business.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\mcm\\Documents\\GitHub\\Gambit.Recruitmentv1.1\\Gambit.Recruitment.Business.Tests\\Gambit.Recruitment.Business.Tests.csproj",
       "projectName": "Gambit.Recruitment.Business.Tests",
-      "projectPath": "C:\\Users\\mcm\\Downloads\\Gambit Recruitment Test\\Gambit.Recruitmentv1.1\\Gambit.Recruitment.Business.Tests\\Gambit.Recruitment.Business.Tests.csproj",
+      "projectPath": "C:\\Users\\mcm\\Documents\\GitHub\\Gambit.Recruitmentv1.1\\Gambit.Recruitment.Business.Tests\\Gambit.Recruitment.Business.Tests.csproj",
       "packagesPath": "C:\\Users\\mcm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mcm\\Downloads\\Gambit Recruitment Test\\Gambit.Recruitmentv1.1\\Gambit.Recruitment.Business.Tests\\obj\\",
+      "outputPath": "C:\\Users\\mcm\\Documents\\GitHub\\Gambit.Recruitmentv1.1\\Gambit.Recruitment.Business.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6588,11 +6588,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\mcm\\Downloads\\Gambit Recruitment Test\\Gambit.Recruitmentv1.1\\Gambit.Recruitment.WebApi\\Gambit.Recruitment.WebApi.csproj": {
-              "projectPath": "C:\\Users\\mcm\\Downloads\\Gambit Recruitment Test\\Gambit.Recruitmentv1.1\\Gambit.Recruitment.WebApi\\Gambit.Recruitment.WebApi.csproj"
+            "C:\\Users\\mcm\\Documents\\GitHub\\Gambit.Recruitmentv1.1\\Gambit.Recruitment.WebApi\\Gambit.Recruitment.WebApi.csproj": {
+              "projectPath": "C:\\Users\\mcm\\Documents\\GitHub\\Gambit.Recruitmentv1.1\\Gambit.Recruitment.WebApi\\Gambit.Recruitment.WebApi.csproj"
             },
-            "C:\\Users\\mcm\\Downloads\\Gambit Recruitment Test\\Gambit.Recruitmentv1.1\\Gambit.Recruitment\\Gambit.Recruitment.Business.csproj": {
-              "projectPath": "C:\\Users\\mcm\\Downloads\\Gambit Recruitment Test\\Gambit.Recruitmentv1.1\\Gambit.Recruitment\\Gambit.Recruitment.Business.csproj"
+            "C:\\Users\\mcm\\Documents\\GitHub\\Gambit.Recruitmentv1.1\\Gambit.Recruitment\\Gambit.Recruitment.Business.csproj": {
+              "projectPath": "C:\\Users\\mcm\\Documents\\GitHub\\Gambit.Recruitmentv1.1\\Gambit.Recruitment\\Gambit.Recruitment.Business.csproj"
             }
           }
         }

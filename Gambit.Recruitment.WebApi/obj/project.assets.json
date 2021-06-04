@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mcm\\Downloads\\Gambit Recruitment Test\\Gambit.Recruitmentv1.1\\Gambit.Recruitment.WebApi\\Gambit.Recruitment.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\mcm\\Documents\\GitHub\\Gambit.Recruitmentv1.1\\Gambit.Recruitment.WebApi\\Gambit.Recruitment.WebApi.csproj",
       "projectName": "Gambit.Recruitment.WebApi",
-      "projectPath": "C:\\Users\\mcm\\Downloads\\Gambit Recruitment Test\\Gambit.Recruitmentv1.1\\Gambit.Recruitment.WebApi\\Gambit.Recruitment.WebApi.csproj",
+      "projectPath": "C:\\Users\\mcm\\Documents\\GitHub\\Gambit.Recruitmentv1.1\\Gambit.Recruitment.WebApi\\Gambit.Recruitment.WebApi.csproj",
       "packagesPath": "C:\\Users\\mcm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mcm\\Downloads\\Gambit Recruitment Test\\Gambit.Recruitmentv1.1\\Gambit.Recruitment.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\mcm\\Documents\\GitHub\\Gambit.Recruitmentv1.1\\Gambit.Recruitment.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -58,8 +58,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\mcm\\Downloads\\Gambit Recruitment Test\\Gambit.Recruitmentv1.1\\Gambit.Recruitment\\Gambit.Recruitment.Business.csproj": {
-              "projectPath": "C:\\Users\\mcm\\Downloads\\Gambit Recruitment Test\\Gambit.Recruitmentv1.1\\Gambit.Recruitment\\Gambit.Recruitment.Business.csproj"
+            "C:\\Users\\mcm\\Documents\\GitHub\\Gambit.Recruitmentv1.1\\Gambit.Recruitment\\Gambit.Recruitment.Business.csproj": {
+              "projectPath": "C:\\Users\\mcm\\Documents\\GitHub\\Gambit.Recruitmentv1.1\\Gambit.Recruitment\\Gambit.Recruitment.Business.csproj"
             }
           }
         }

@@ -26,11 +26,11 @@ namespace Gambit.Recruitment.WebApi.Performance
                 
                 var p1 = historicalValues.Where(x => dateTo >= x.Date)
                     .OrderByDescending(x => x.Date)
-                    .First().Value;
+                    .FirstOrDefault().Value;
 
                 var p0 = historicalValues.Where(x => dateFrom >= x.Date)
                     .OrderByDescending(x => x.Date)
-                    .First().Value;
+                    .FirstOrDefault().Value;
 
                 var performance = (p1 - p0) / p0;
 

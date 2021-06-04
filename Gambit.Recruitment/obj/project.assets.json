@@ -186,11 +186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mcm\\Downloads\\Gambit Recruitment Test\\Gambit.Recruitmentv1.1\\Gambit.Recruitment\\Gambit.Recruitment.Business.csproj",
+      "projectUniqueName": "C:\\Users\\mcm\\Documents\\GitHub\\Gambit.Recruitmentv1.1\\Gambit.Recruitment\\Gambit.Recruitment.Business.csproj",
       "projectName": "Gambit.Recruitment.Business",
-      "projectPath": "C:\\Users\\mcm\\Downloads\\Gambit Recruitment Test\\Gambit.Recruitmentv1.1\\Gambit.Recruitment\\Gambit.Recruitment.Business.csproj",
+      "projectPath": "C:\\Users\\mcm\\Documents\\GitHub\\Gambit.Recruitmentv1.1\\Gambit.Recruitment\\Gambit.Recruitment.Business.csproj",
       "packagesPath": "C:\\Users\\mcm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mcm\\Downloads\\Gambit Recruitment Test\\Gambit.Recruitmentv1.1\\Gambit.Recruitment\\obj\\",
+      "outputPath": "C:\\Users\\mcm\\Documents\\GitHub\\Gambit.Recruitmentv1.1\\Gambit.Recruitment\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

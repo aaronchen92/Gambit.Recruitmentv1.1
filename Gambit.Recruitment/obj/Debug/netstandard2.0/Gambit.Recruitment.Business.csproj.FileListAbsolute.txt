@@ -6,3 +6,12 @@ C:\Users\mcm\Downloads\Gambit Recruitment Test\Gambit.Recruitmentv1.1\Gambit.Rec
 C:\Users\mcm\Downloads\Gambit Recruitment Test\Gambit.Recruitmentv1.1\Gambit.Recruitment\obj\Debug\netstandard2.0\Gambit.Recruitment.Business.csproj.CoreCompileInputs.cache
 C:\Users\mcm\Downloads\Gambit Recruitment Test\Gambit.Recruitmentv1.1\Gambit.Recruitment\obj\Debug\netstandard2.0\Gambit.Recruitment.Business.dll
 C:\Users\mcm\Downloads\Gambit Recruitment Test\Gambit.Recruitmentv1.1\Gambit.Recruitment\obj\Debug\netstandard2.0\Gambit.Recruitment.Business.pdb
+C:\Users\mcm\Documents\GitHub\Gambit.Recruitmentv1.1\Gambit.Recruitment\bin\Debug\netstandard2.0\Gambit.Recruitment.Business.deps.json
+C:\Users\mcm\Documents\GitHub\Gambit.Recruitmentv1.1\Gambit.Recruitment\bin\Debug\netstandard2.0\Gambit.Recruitment.Business.dll
+C:\Users\mcm\Documents\GitHub\Gambit.Recruitmentv1.1\Gambit.Recruitment\bin\Debug\netstandard2.0\Gambit.Recruitment.Business.pdb
+C:\Users\mcm\Documents\GitHub\Gambit.Recruitmentv1.1\Gambit.Recruitment\obj\Debug\netstandard2.0\Gambit.Recruitment.Business.csproj.AssemblyReference.cache
+C:\Users\mcm\Documents\GitHub\Gambit.Recruitmentv1.1\Gambit.Recruitment\obj\Debug\netstandard2.0\Gambit.Recruitment.Business.AssemblyInfoInputs.cache
+C:\Users\mcm\Documents\GitHub\Gambit.Recruitmentv1.1\Gambit.Recruitment\obj\Debug\netstandard2.0\Gambit.Recruitment.Business.AssemblyInfo.cs
+C:\Users\mcm\Documents\GitHub\Gambit.Recruitmentv1.1\Gambit.Recruitment\obj\Debug\netstandard2.0\Gambit.Recruitment.Business.csproj.CoreCompileInputs.cache
+C:\Users\mcm\Documents\GitHub\Gambit.Recruitmentv1.1\Gambit.Recruitment\obj\Debug\netstandard2.0\Gambit.Recruitment.Business.dll
+C:\Users\mcm\Documents\GitHub\Gambit.Recruitmentv1.1\Gambit.Recruitment\obj\Debug\netstandard2.0\Gambit.Recruitment.Business.pdb
