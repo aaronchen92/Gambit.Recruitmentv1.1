@@ -1,8 +1,0 @@
-C:\Users\mcm\Downloads\Gambit Recruitment Test\Gambit.Recruitmentv1.1\Gambit.Recruitment\bin\Release\netstandard2.0\Gambit.Recruitment.Business.deps.json
-C:\Users\mcm\Downloads\Gambit Recruitment Test\Gambit.Recruitmentv1.1\Gambit.Recruitment\bin\Release\netstandard2.0\Gambit.Recruitment.Business.dll
-C:\Users\mcm\Downloads\Gambit Recruitment Test\Gambit.Recruitmentv1.1\Gambit.Recruitment\bin\Release\netstandard2.0\Gambit.Recruitment.Business.pdb
-C:\Users\mcm\Downloads\Gambit Recruitment Test\Gambit.Recruitmentv1.1\Gambit.Recruitment\obj\Release\netstandard2.0\Gambit.Recruitment.Business.AssemblyInfoInputs.cache
-C:\Users\mcm\Downloads\Gambit Recruitment Test\Gambit.Recruitmentv1.1\Gambit.Recruitment\obj\Release\netstandard2.0\Gambit.Recruitment.Business.AssemblyInfo.cs
-C:\Users\mcm\Downloads\Gambit Recruitment Test\Gambit.Recruitmentv1.1\Gambit.Recruitment\obj\Release\netstandard2.0\Gambit.Recruitment.Business.csproj.CoreCompileInputs.cache
-C:\Users\mcm\Downloads\Gambit Recruitment Test\Gambit.Recruitmentv1.1\Gambit.Recruitment\obj\Release\netstandard2.0\Gambit.Recruitment.Business.dll
-C:\Users\mcm\Downloads\Gambit Recruitment Test\Gambit.Recruitmentv1.1\Gambit.Recruitment\obj\Release\netstandard2.0\Gambit.Recruitment.Business.pdb
